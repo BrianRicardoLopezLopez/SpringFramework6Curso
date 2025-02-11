@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "PlayStation 5",
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "name": "Cpu AMD Ryzen 5 5600",
+    "price": 1100
+  },
+  {
+    "id": 3,
+    "name": "Horno Pizza Rojo",
+    "price": 300
+  },
+  {
+    "id": 4,
+    "name": "Chaqueta Pluma Negra",
+    "price": 612
+  }
+]
